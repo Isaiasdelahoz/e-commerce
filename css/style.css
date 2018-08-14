@@ -1,13 +1,4 @@
 
-* {box-sizing: border-box; }
-
-#productos .box {
-    display: inline-block;
-    width: 30%;
-    padding: 2px;
-    margin: 14px;
-}
-
 #productos img {
     display: block;
     padding: 0 10px 0 0;
@@ -15,4 +6,8 @@
 
 .section {
     margin: 15px
+}
+
+.piece {
+    margin: 15px 0 0 0;
 }
